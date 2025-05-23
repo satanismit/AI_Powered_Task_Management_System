@@ -62,7 +62,5 @@ Design and develop an intelligent task management system that uses **NLP** and *
 - Summary dashboard/mockup created
 - Final report/documentation prepared
 
----
 
-## 📁 Folder Structure (suggested)
 
